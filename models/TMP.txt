@@ -1,0 +1,7 @@
+device  4
+finished setting up validation workers.
+/mnt/pedomeister/eeg/contestData/trainPickles_v2/00000883_s009_t008.pkl
+/mnt/pedomeister/eeg/contestData/trainPickles_v2/00000883_s009_t007.pkl
+/mnt/pedomeister/eeg/contestData/trainPickles_v2/00004569_s005_t003.pkl
+/mnt/pedomeister/eeg/contestData/trainPickles_v2/00000883_s009_t000.pkl
+/mnt/pedomeister/eeg/contestData/trainPickles_v2/00006904_s005_t001.pkl
